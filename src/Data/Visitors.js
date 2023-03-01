@@ -1,0 +1,43 @@
+export const visitors = [
+    {
+      'Nom visiteur': 'Martin',
+      'Prénom': 'Gabriel',
+      'ID': '24',
+      'Email': 'g.martin99@gmail.com',
+      'Dernière connexion': '2021/01/01',
+      'Nombre de connexions ce mois': '2',
+      'Nombre d’articles consultés': '4',
+      'Déjà acheté ?': 'Oui',
+    },
+    {
+      'Nom visiteur': 'Petit',
+      'Prénom': 'Marie',
+      'ID': '25',
+      'Email': 'm.petit99@gmail.com',
+      'Dernière connexion': '2021/01/04',
+      'Nombre de connexions ce mois': '1',
+      'Nombre d’articles consultés': '5',
+      'Déjà acheté ?': 'Oui',
+    },
+    {
+      'Nom visiteur': 'Robert',
+      'Prénom': 'Luc',
+      'ID': '26',
+      'Email': 'l.robert99@gmail.com',
+      'Dernière connexion': '2021/01/03',
+      'Nombre de connexions ce mois': '5',
+      'Nombre d’articles consultés': '7',
+      'Déjà acheté ?': 'Oui',
+    },
+    {
+      'Nom visiteur': 'Richard',
+      'Prénom': 'Stéphanie',
+      'ID': '27',
+      'Email': 's.richard99@gmail.com',
+      'Dernière connexion': '2020/12/11',
+      'Nombre de connexions ce mois': '0',
+      'Nombre d’articles consultés': '2',
+      'Déjà acheté ?': 'Non',
+    },
+  ];
+  
